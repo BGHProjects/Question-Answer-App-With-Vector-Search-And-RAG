@@ -3,10 +3,10 @@
 </br>
 <div align="center">
 <a href="https://www.python.org/"><img src="./readme-content/Python.png" width="75" height="75"></a>
-<a href="https://openai.com/"><img src="./readme-content/img/stacklogos/OpenAI.png" width="75" height="75"></a>
-<a href="https://www.langchain.com/"><img src="./readme-content/img/stacklogos/Langchain.png" width="75" height="75"></a>
-<a href="https://www.gradio.app/"><img src="./readme-content/img/stacklogos/Gradio.png" width="75" height="75"></a>
-<a href="https://www.mongodb.com/atlas/database"><img src="./readme-content/img/stacklogos/MongoDB.png" width="75" height="75"></a>
+<a href="https://openai.com/"><img src="./readme-content/OpenAI.png" width="75" height="75"></a>
+<a href="https://www.langchain.com/"><img src="./readme-content/Langchain.png" width="75" height="75"></a>
+<a href="https://www.gradio.app/"><img src="./readme-content/Gradio.png" width="75" height="75"></a>
+<a href="https://www.mongodb.com/atlas/database"><img src="./readme-content/MongoDB.png" width="75" height="75"></a>
 </div>
 
 </br>
